@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'iphone-legacy-fix' target in the 'iphone-legacy-fix' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
