@@ -1,0 +1,7 @@
+h1=. iPhone SDK 2.x Fixer for OS X 10.6
+
+p=. Version 1.0 -- 19 June 2009
+
+p=. By "Jim Dovey":mailto:jimdovey@mac.com <br />
+
+This project implements a simple command-line utility which fixes the iPhone 2.x SDKs to work with the default gcc-darwin-10 compiler provided by OS X Snow Leopard.
